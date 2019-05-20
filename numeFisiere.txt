@@ -1,0 +1,11 @@
+test.bmp
+cifra0.bmp
+cifra1.bmp
+cifra2.bmp
+cifra3.bmp
+cifra4.bmp
+cifra5.bmp
+cifra6.bmp
+cifra7.bmp
+cifra8.bmp
+cifra9.bmp
